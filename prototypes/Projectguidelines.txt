@@ -1,0 +1,17 @@
+# Project Guidelines
+
+1. Use red/green TDD.
+
+2. For every claim or finding, quote the exact code that proves it. If you cannot quote the actual code, say "I need to read this file first" instead of making the claim.
+
+3. The application should build, test, and run successfully before moving on the next phase of development. Always fix every issue that prevents any of those from happening before moving on. Do not skip, simplify, or do any band-aid fixes, always fully implement the code.
+
+4. There are no time or complexity constraints, therefore all complexity should be done now.
+
+5. ALWAYS fix ALL failing tests before checking in. That is a quality gate that must never be transgressed.
+
+6. Work the prototypes/todo.md items in order, completely finishing each item before moving to the next. When deferring an item, ensure that todo.md is updated so items are moved to the proper place so they do not get missed. todo.md should be worked strictly in order, so review todo.md now to ensure that all items can be worked in order and move items as necessary to ensure this.
+
+7. Every workflow in .github/workflow is a local quality gate that must pass for the code to be accepted.
+
+8. Report all status updates, learnings, and etc in the prototypes/status.md file.
