@@ -31,7 +31,7 @@ So, when the c-suits want you to "use ai" and you know they couldn't do a matrix
 6. Once todo.md has all the development items in a list, issue the working prompt. Re-issue this prompt when Claude stops, you can also automate that in a loop somehow if you desire.
 
 
-And that's the wole thing. No need to do /init, or install any other junk. You just copy/paste and go.
+And that's the whole thing. No need to do /init, or install any other junk. You just copy/paste and go.
 
 Here are the prompts referenced above. Modify them to fit your needs, but generally speaking over the last year plus change of developing this while Cludding myself to death every day for hours I've added/changed very little. The "attack surface" exposed to whatever fresh heck is spit out by Anthropic or OpenAI (maybe they will be bankrupt by the time you use this. We can only hope) when they put out their next model is very small. This has survived at least five major model "upgrades". May it live for several more. We'll visit the empty hull of a half-finished data center someplace in a year or two and pour one out for whatever that last model happens to be:
 
