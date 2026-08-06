@@ -14,6 +14,8 @@ Far too many "frameworks" are stuffed full of crap -- "skills", "loops", "graphs
 
 So, when the c-suits want you to "use ai" and you know they couldn't do a matrix multiplication to save their life, or they can but their brains have been eaten by zombies, I humbly offer this balm, a salve that can help get crap done in a mostly not-annoying way.
 
+NOTE: Claude generally writes things in javascript/typescript when not prompted about a specific language, and that is the language it tends to use in the web ui, but this can be used for developing in any programming language. Even Rust.
+
 # Steps to nirvana
 
 ### Follow 'em:
